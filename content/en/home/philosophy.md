@@ -1,7 +1,6 @@
 ---
 title: "Philosophy"
 date: 2023-02-04T10:32:15-08:00
-draft: true
 weight: 150
 ---
 

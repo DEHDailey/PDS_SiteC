@@ -1,4 +1,4 @@
-baseURL: http://example.com/
+baseURL: https://magnificent-sable-0aad45.netlify.app/
 theme: hugo-theme-introduction
 DefaultContentLanguage: en
 params:

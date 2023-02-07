@@ -85,7 +85,7 @@ languages:
     languageName: English
     params:
       description: Website Description
-    title: Introduction
+    title: PsychDevSolutions
     weight: 0
   # es:
   #   contentDir: content/es

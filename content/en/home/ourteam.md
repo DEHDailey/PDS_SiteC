@@ -5,7 +5,12 @@ weight: 300
 
 #### Erica LaForte, Principal Psychometrician
 
-<<Erica's bio here>>
+Erica is an applied psychometrician with over 25 years of experience in clinical test development in both academic and commercial settings.
+
+Her pragmatic approach to test development balances reliability and validity considerations with the realities of the client's time and resources. 
+
+
+
 
 #### David Dailey, Principal Statistician
 
